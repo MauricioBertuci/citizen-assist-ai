@@ -1,0 +1,9 @@
+Nome do assistente: Citizen Assist AI | Primeiro Passo
+Público atendido: Jovens em busca do primeiro emprego
+
+Integrantes e RM:
+- Mauricio Bertuci Saletti - RM571229
+- Leonardo Fortini Marcelo - RM572566
+
+Link do repositório GitHub: https://github.com/MauricioBertuci/citizen-assist-ai
+Link do vídeo técnico no YouTube: https://youtu.be/CD_cie4qLIk

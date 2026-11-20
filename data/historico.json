@@ -1,0 +1,152 @@
+[
+  {
+    "data": "2026-11-17T20:47:55-03:00",
+    "origem": "pergunta",
+    "pergunta": "titulo de eleitor perdido",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 2,
+    "tempo_segundos": 265.7
+  },
+  {
+    "data": "2026-11-17T20:48:14-03:00",
+    "origem": "categoria",
+    "pergunta": "",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 17.3
+  },
+  {
+    "data": "2026-11-17T20:50:03-03:00",
+    "origem": "pergunta",
+    "pergunta": "fui mandado embora o que eu recebo, como pedir seguro desemprego ?",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 8.0
+  },
+  {
+    "data": "2026-11-17T20:50:42-03:00",
+    "origem": "pergunta",
+    "pergunta": "Como Emitir o título digital no e-TítuloEmitir o título digital no e-Títul ?",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 27.3
+  },
+  {
+    "data": "2026-11-17T20:56:15-03:00",
+    "origem": "pergunta",
+    "pergunta": "como baixo a carteira de trabalho no celular",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 3.2
+  },
+  {
+    "data": "2026-11-17T20:59:05-03:00",
+    "origem": "pergunta",
+    "pergunta": "n",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 16,
+    "tempo_segundos": 170.1
+  },
+  {
+    "data": "2026-11-17T21:00:42-03:00",
+    "origem": "pergunta",
+    "pergunta": "seguro desemprego",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 6.6
+  },
+  {
+    "data": "2026-11-17T21:01:13-03:00",
+    "origem": "pergunta",
+    "pergunta": "oque isso faz ?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 11.6
+  },
+  {
+    "data": "2026-11-17T21:01:28-03:00",
+    "origem": "pergunta",
+    "pergunta": "como tirar titulo de eleitor",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 9.1
+  },
+  {
+    "data": "2026-11-17T21:02:35-03:00",
+    "origem": "pergunta",
+    "pergunta": "como consultar pis ?",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 3,
+    "tempo_segundos": 22.9
+  },
+  {
+    "data": "2026-11-17T21:02:45-03:00",
+    "origem": "pergunta",
+    "pergunta": "como pedir o seguro desemprego ?",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 10.0
+  },
+  {
+    "data": "2026-11-19T16:01:18-03:00",
+    "origem": "pergunta",
+    "pergunta": "Como acessar a carteira de trabalho digital ?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 22.4
+  },
+  {
+    "data": "2026-11-19T16:01:44-03:00",
+    "origem": "pergunta",
+    "pergunta": "Como tirar o RG ?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 25.7
+  },
+  {
+    "data": "2026-11-19T16:09:06-03:00",
+    "origem": "pergunta",
+    "pergunta": "Como acessar a carteria de trabalho digital ?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_segundos": 30.7
+  },
+  {
+    "data": "2026-11-19T16:09:27-03:00",
+    "origem": "pergunta",
+    "pergunta": "Como tiar o RG ?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 21.3
+  }
+]

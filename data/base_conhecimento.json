@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "categoria": "Trabalho",
+    "titulo": "Acessar a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho digital",
+      "ctps digital",
+      "carteira de trabalho"
+    ],
+    "resposta": "Abra o aplicativo Carteira de Trabalho Digital ou entre pelo portal Gov.br e faça login para habilitar o acesso.",
+    "documentos": [
+      "CPF",
+      "Conta Gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal Gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 2,
+    "categoria": "Trabalho",
+    "titulo": "Buscar vagas de emprego",
+    "palavras_chave": [
+      "vagas de emprego",
+      "procurar emprego",
+      "buscar vagas",
+      "primeiro emprego"
+    ],
+    "resposta": "Entre no Portal Emprega Brasil e consulte vagas de acordo com seu perfil profissional.",
+    "documentos": [
+      "Conta Gov.br para entrar"
+    ],
+    "onde": "Portal Emprega Brasil – Trabalhador",
+    "fonte": "https://www.gov.br/pt-br/servicos/acessar-portal-emprega-brasil-2013-trabalhador",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 3,
+    "categoria": "Trabalho",
+    "titulo": "Consultar o Abono Salarial",
+    "palavras_chave": [
+      "abono salarial",
+      "consultar pis",
+      "beneficio pis"
+    ],
+    "resposta": "Entre no Portal Emprega Brasil e procure a consulta do Abono Salarial para ver as informações do benefício.",
+    "documentos": [
+      "Conta Gov.br para entrar"
+    ],
+    "onde": "Portal Emprega Brasil – Trabalhador",
+    "fonte": "https://www.gov.br/pt-br/servicos/acessar-portal-emprega-brasil-2013-trabalhador",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 4,
+    "categoria": "Trabalho",
+    "titulo": "Solicitar o Seguro-Desemprego",
+    "palavras_chave": [
+      "seguro desemprego",
+      "solicitar seguro",
+      "requerimento do seguro"
+    ],
+    "resposta": "Se você foi dispensado sem justa causa, consulte as condições do benefício e use o requerimento entregue pelo empregador para fazer a solicitação.",
+    "documentos": [
+      "CPF",
+      "Requerimento do Seguro-Desemprego entregue pelo empregador"
+    ],
+    "onde": "Portal Gov.br ou aplicativo Carteira de Trabalho Digital",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos",
+    "titulo": "Fazer a primeira inscrição no CPF",
+    "palavras_chave": [
+      "tirar cpf",
+      "primeiro cpf",
+      "inscricao no cpf",
+      "fazer cpf"
+    ],
+    "resposta": "Acesse o serviço de inscrição e escolha o canal indicado para o seu caso. Confira a lista completa de documentos na página oficial.",
+    "documentos": [
+      "Documento de identificação oficial com foto para o titular a partir de 16 anos",
+      "Para menores, confira a documentação exigida para o menor e o responsável"
+    ],
+    "onde": "Serviço Inscrever-se no CPF da Receita Federal",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 6,
+    "categoria": "Documentos",
+    "titulo": "Consultar a situação cadastral do CPF",
+    "palavras_chave": [
+      "consultar cpf",
+      "situacao cadastral do cpf",
+      "comprovante de situacao cadastral"
+    ],
+    "resposta": "Preencha os campos no serviço da Receita para consultar a situação do cadastro e emitir o comprovante.",
+    "documentos": [
+      "Número do CPF",
+      "Data de nascimento"
+    ],
+    "onde": "Consulta de Situação Cadastral da Receita Federal",
+    "fonte": "https://solucoes.receita.fazenda.gov.br/Servicos/cpf/ConsultaSituacao/ConsultaPublica.asp",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 7,
+    "categoria": "Documentos",
+    "titulo": "Corrigir um CPF suspenso",
+    "palavras_chave": [
+      "cpf suspenso",
+      "corrigir cpf",
+      "regularizar cpf"
+    ],
+    "resposta": "Veja primeiro o status no serviço Meu CPF. Se estiver suspenso, use a opção de corrigir o cadastro. Se for gerado um protocolo, siga a orientação da Receita para concluir o atendimento.",
+    "documentos": [
+      "Documento de identificação atualizado com foto, se houver protocolo para concluir o atendimento"
+    ],
+    "onde": "Meu CPF, no portal da Receita Federal",
+    "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 8,
+    "categoria": "Cidadania",
+    "titulo": "Tirar o primeiro título de eleitor",
+    "palavras_chave": [
+      "primeiro titulo",
+      "tirar titulo de eleitor",
+      "alistamento eleitoral"
+    ],
+    "resposta": "Inicie o pedido pelo Autoatendimento Eleitoral e siga as instruções para concluir o alistamento em uma unidade da Justiça Eleitoral.",
+    "documentos": [
+      "Documento oficial de identificação",
+      "Comprovante de vínculo com o município, quando exigido",
+      "Comprovante de quitação militar, quando aplicável"
+    ],
+    "onde": "Autoatendimento Eleitoral (Título Net) e unidade da Justiça Eleitoral",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/servicos/carta-de-servicos-ao-eleitor",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 9,
+    "categoria": "Cidadania",
+    "titulo": "Consultar o local de votação",
+    "palavras_chave": [
+      "onde votar",
+      "local de votacao",
+      "consultar secao eleitoral"
+    ],
+    "resposta": "No Autoatendimento Eleitoral, escolha Consultas e depois Onde votar. O aplicativo e-Título também tem essa opção.",
+    "documentos": [
+      "Nome completo ou número do título, conforme a consulta do TSE"
+    ],
+    "onde": "Autoatendimento Eleitoral (Título Net) ou e-Título",
+    "fonte": "https://www.tse.jus.br/institucional/corregedoria-geral-eleitoral/sistemas-e-servicos-1/consulta-titulo-e-local-de-votacao",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 10,
+    "categoria": "Cidadania",
+    "titulo": "Emitir o título digital no e-Título",
+    "palavras_chave": [
+      "e titulo",
+      "titulo digital",
+      "aplicativo do titulo",
+      "eleitor perdido",
+      "titulo perdido",
+      "perdi o titulo"
+    ],
+    "resposta": "Baixe o aplicativo oficial e-Título e siga a etapa de confirmação de identidade para acessar a versão digital do título.",
+    "documentos": [
+      "Dados de identificação solicitados pelo aplicativo oficial"
+    ],
+    "onde": "Aplicativo e-Título",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo/aplicativo-e-titulo",
+    "verificado_em": "2026-11-09"
+  }
+]
